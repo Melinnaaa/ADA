@@ -10,7 +10,7 @@
 3. Incorpore la opción **verbose** para poder ver, de **manera amigable e intuitiva** la ejecución paso a paso.
 
 4. Demuestre por qué el algoritmo es correcto.
-    - Mediante induccion, o el metodo que estime conveniente.
+    - Mediante inducción, o el método que estime conveniente.
 
 5. Analice el **tiempo de ejecución** del algoritmo.
 
